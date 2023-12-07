@@ -1,4 +1,4 @@
-# Relatório do Projeto Iaplantas
+# Relatório do Projeto de Classificacação de doenças em folhas de diferentes culturas agrícolas
 
 # Repositório de Treinamento de IA com CNN Sequencial
 
