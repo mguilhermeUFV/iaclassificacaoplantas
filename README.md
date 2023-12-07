@@ -4,6 +4,11 @@
 
 Este repositório contém o código utilizado no treinamento de uma Rede Neural Convolucional (CNN) sequencial para o projeto da disciplina de Inteligência Artificial da Universidade Federal de Viçosa - Campus de Rio Paranaíba.
 
+## Grupo
+- Guilherme Moreira da Silva - 6313
+- João Pedro Silva Coelho - 7022
+- Gustavo Henrique de Deus Reis - 7626
+
 ## Descrição
 
 Neste projeto, desenvolvemos uma IA capaz de realizar a classificação de doenças em plantas usando uma abordagem de CNN sequencial. Utilizamos um conjunto de dados de imagens de plantas afetadas por doenças para treinar e avaliar o modelo.
